@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LottoProject</string>
+    <string name="name">Name</string>
+    <string name="_123">123</string>
+    <string name="hello">Hello</string>
+    <string name="title_activity_error_bar">errorBar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="register_success">You are registered successfully</string>
+    <string name="numbSelectedError">This number is already selected, pick other</string>
+    <string name="numbSelectedSuccessful">Number added successfully</string>
+</resources>
